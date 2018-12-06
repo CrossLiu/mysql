@@ -9,7 +9,7 @@ import java.sql.Statement;
 
 public class Operation_mysql {
 
-	public static void main(String[] args) throws ClassNotFoundException, SQLException {
+	public static void test() throws ClassNotFoundException, SQLException {
 		// TODO Auto-generated method stub
 		//Çý¶¯³ÌÐòÃû
 		String driver="com.mysql.jdbc.Driver";
